@@ -1,0 +1,20 @@
+﻿body { 
+    background-color: black;
+     height: 755px;
+     width:1349px;
+ }
+
+#tweets-container {
+    height: 600px;
+    width: 534px;
+    overflow: auto;
+}
+
+.tweets-what {
+    overflow: auto;
+}
+
+.color-testing {
+    background-color: rgb(43, 74, 111);
+}
+
